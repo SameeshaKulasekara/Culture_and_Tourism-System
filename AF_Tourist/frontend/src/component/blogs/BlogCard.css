@@ -1,0 +1,19 @@
+.card-body img{
+    width: 200px;
+}
+.read-more-button{
+    color: blue;
+}
+.ReadMoreReact{
+  text-align: center;
+}
+.likes{
+    display: flex;
+    justify-content: space-between;
+}
+.selector{
+    width: 100%;
+}
+.MuiInput-root{
+    width: 500px;
+}
